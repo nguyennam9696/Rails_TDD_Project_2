@@ -1,2 +1,3 @@
-# Rails_TDD_Project_2
-:notebook: More Advanced TDD Rails App
+# Ruby on Rails Test Driven Development Practice
+
+by: [*Nam H. Nguyen*](http://www.nomnomnam.me/)
